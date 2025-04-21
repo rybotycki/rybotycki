@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Cześć, nazywam się Krystian Rybotycki
 
-<!--
-**rybotycki/rybotycki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student informatyki, pasjonat Web Developmentu. Tworzę projekty frontendowe, które pomagają mi rozwijać umiejętności i zbliżają do celu — pracy jako niezależny developer i założenia własnej firmy.
 
-Here are some ideas to get you started:
+## 🚀 Aktualnie uczę się:
+- JavaScript
+- HTML5 & CSS3
+- Pracy z DOM
+- Tworzenia interaktywnych interfejsów użytkownika
+- Publikacji projektów przez GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Ostatni projekt:
+**Licznik kliknięć (tryb jasny/ciemny + logika JS)**  
+👉 [Zobacz online](https://rybotycki.github.io/licznik-klikniec)  
+👉 [Repozytorium projektu](https://github.com/rybotycki/licznik-klikniec)
+
+## 🎯 Moje cele:
+- Rozwijać portfolio projektów frontendowych
+- Zostać Web Developerem z prawdziwego zdarzenia
+- Docelowo założyć firmę i zbudować własny zespół
+- Osiągnąć niezależność finansową i czasową
+
+## ✉️ Kontakt:
+Na razie obserwuj mnie tutaj na GitHubie — więcej już wkrótce 😉
