@@ -9,10 +9,11 @@
 - Tworzenia interaktywnych interfejsów użytkownika
 - Publikacji projektów przez GitHub Pages
 
-## 🧪 Ostatni projekt:
-**Licznik kliknięć (tryb jasny/ciemny + logika JS)**  
-👉 [Zobacz online](https://rybotycki.github.io/analizator-budzetu/)
+🧪 Ostatni projekt:  
+Analizator budżetu (logika JS + analiza danych + pętle i funkcje)  
+👉 [Zobacz online](https://rybotycki.github.io/analizator-budzetu/) 
 👉 [Repozytorium projektu](https://github.com/rybotycki/analizator-budzetu)
+
 
 ## 🎯 Moje cele:
 - Rozwijać portfolio projektów frontendowych
