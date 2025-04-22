@@ -11,8 +11,8 @@
 
 ## 🧪 Ostatni projekt:
 **Licznik kliknięć (tryb jasny/ciemny + logika JS)**  
-👉 [Zobacz online](https://rybotycki.github.io/licznik-klikniec)  
-👉 [Repozytorium projektu](https://github.com/rybotycki/licznik-klikniec)
+👉 [Zobacz online](https://rybotycki.github.io/analizator-budzetu/)
+👉 [Repozytorium projektu](https://github.com/rybotycki/analizator-budzetu)
 
 ## 🎯 Moje cele:
 - Rozwijać portfolio projektów frontendowych
